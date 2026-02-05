@@ -1,6 +1,6 @@
 # Explainable AI for Medical Imaging 
 
-This repository contains my  Projectfocused on applying Explainable Artificial Intelligence (XAI) techniques to medical image analysis.
+This repository contains my  Project focused on applying Explainable Artificial Intelligence (XAI) techniques to medical image analysis.
 
 The objective of this project is to make **deep learning–based medical image classification transparent, interpretable, and reliable, which is critical for clinical decision support systems.
 ---
